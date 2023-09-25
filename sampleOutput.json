@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Nick Romano",
+            "title": "Inside the set of Matt Bomer and Jonathan Bailey's 'Fellow Travelers'",
+            "description": "The creators and stars of 'Fellow Travelers' offer exclusive insights from the set of Matt Bomer and Jonathan Bailey's decades-spanning love story.",
+            "url": "https://ew.com/tv/fellow-travelers-matt-bomer-jonathan-bailey-set-visit/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=%5B1220%2C0%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F09%2F07%2FELLOW-TRAVELERS-Tout-090723.jpg",
+            "publishedAt": "2023-09-19T13:37:24.7644792Z",
+            "content": "Time works differently on the set of Fellow Travelers. It's not what we typically think of as linear. It's as if the past, the present, and the future are all unfolding simultaneously. That sensation… [+15107 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "The Apple iPhone 15 Proves It’s OK Not to Love Your Phone",
+            "description": "With a new USB-C port and some helpful enhancements over last year's model, we like the iPhone 15 just fine.",
+            "url": "https://www.wired.com/review/apple-iphone-15",
+            "urlToImage": "https://media.wired.com/photos/6508bcf4f60ed7f4e17ab7d0/191:100/w_1280,c_limit/iPhone-15-Review-Featured-Gear.jpg",
+            "publishedAt": "2023-09-19T13:22:22.717813Z",
+            "content": "My photo comparisons were primarily between the iPhone 13 Pro, the iPhone 14, the iPhone 14 Pro, the iPhone 15, and an occasional Google Pixel 6 Pro photo for good measure. The pics I took on the iPh… [+3172 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Lester Fabian Brathwaite",
+            "title": "<em>Love Is Blind</em> alum Jackie Bonds says Josh Demas called it quits because of her chat with his ex",
+            "description": "\"[I'm] still sick about it, low-key. I love that man,\" Bonds said.",
+            "url": "https://ew.com/tv/love-is-blind-jackie-bonds-josh-demas-split/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C0%2C1500%2C750&poi=face&w=1500&h=750&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F09%2F19%2Fjackie-bonds-josh-demas-split-091823.jpg",
+            "publishedAt": "2023-09-19T07:52:48Z",
+            "content": "It's been a rough month for love in the world of reality TV. But, honestly, when isn't it?\r\nOn the heels of Summer House's Lindsay Hubbard and Carl Radke's engagement coming to an end, Love Is Blind'… [+1221 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Gerrad Hall",
+            "title": "What to Watch this week: Oh, baby! <em>American Horror Story: Delicate </em>premieres and <em>Sex Education</em> returns",
+            "description": "Plus, the glitz and glamour of Apple TV+'s <em>The Super Models</em>, a new season of <em>Love Is Blind</em>, and more picks.",
+            "url": "https://ew.com/what-to-watch/what-to-watch-schedule-american-horror-story-delicate-sex-education/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=51%2C4%2C1978%2C968&poi=%5B1040%2C340%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F09%2F15%2FSOC-WTW-SEPT18-2000.jpg",
+            "publishedAt": "2023-09-18T16:00:00Z",
+            "content": "FX births a new season of American Horror Story, subtitled, Delicate, starring Emma Roberts, Kim Kardashian, and Cara Delevingne in a story about an actress undergoing IVF treatments, who thinks sini… [+5872 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Martin Sheen and Melissa Fitzgerald: ‘We are all dancing on the edge of the abyss’",
+            "description": "A.R. Gurney’s play “Love Letters,” aims to foster understanding of those who have experienced addiction and the necessary conditions for successful recovery, write featured actors Martin Sheen and Melissa Fitzgerald.",
+            "url": "https://www.cnn.com/2023/09/18/opinions/drug-addiction-recovery-love-letters-sheen-fitzgerald/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230914164115-martin-sheen-melissa-fitzgerald-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-18T10:07:14Z",
+            "content": "Editors Note: Martin Sheen is an acclaimed actor and winner of Emmy, Golden Globe and Screen Actors Guild Awards. Melissa Fitzgerald is an actress and director of strategic engagement for All Rise, f… [+6124 chars]"
+        },
+        {
+            "source": {
+                "id": "mtv-news",
+                "name": "MTV News"
+            },
+            "author": null,
+            "title": "ALEXANDER 23'S GENTLE MUSINGS ON THE AFTERSHOCK OF LOVE",
+            "description": null,
+            "url": "http://www.mtv.com/news/3188591/alexander-23-aftershock-interview/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-15T14:37:16.7603836Z",
+            "content": "Please update your browser to view the website."
+        },
+        {
+            "source": {
+                "id": "football-italia",
+                "name": "Football Italia"
+            },
+            "author": "Football Italia Staff",
+            "title": "Donnarumma and Milan: a controversial love story",
+            "description": "The story began when Gigio Donnarumma followed his heart and signed with Milan and it could end with the club&#39;s return to the Champions League.",
+            "url": "http://www.football-italia.net/171170/donnarumma-and-milan-controversial-love-story",
+            "urlToImage": "https://www.football-italia.net/sites/default/files/imagecache/main_photo/[type]/[nid]/Donnarumma-1912-yay-epa_1_12.jpg",
+            "publishedAt": "2021-05-25T01:00:00Z",
+            "content": "The story began when Gigio Donnarumma followed his heart and signed with Milan and it could end with the club's return to the Champions League.\r\nThe Italy international helped Milan secure a place in… [+3001 chars]"
+        },
+        {
+            "source": {
+                "id": "national-geographic",
+                "name": "National Geographic"
+            },
+            "author": "Nadia Drake",
+            "title": "How these feuding map-makers shaped our fascination with Mars",
+            "description": "One was an artist who loved space. His rival was a bold professional astronomer. Their race to map the red planet sparked decades of science and speculation.",
+            "url": "https://www.nationalgeographic.com/science/2021/02/how-feuding-map-makers-shaped-our-fascination-with-mars.html",
+            "urlToImage": "https://pmdvod.nationalgeographic.com/NG_Video/788/579/smpost_1612381336455.jpg",
+            "publishedAt": "2021-02-17T14:37:21.3706142Z",
+            "content": null
+        }
+    ]
+}
