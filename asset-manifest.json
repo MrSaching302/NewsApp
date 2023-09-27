@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mrsaching302.github.io/newsapp/static/css/main.e6c13ad2.css",
-    "main.js": "/mrsaching302.github.io/newsapp/static/js/main.442c6271.js",
+    "main.js": "/mrsaching302.github.io/newsapp/static/js/main.6c491fe0.js",
     "static/js/787.4c026eef.chunk.js": "/mrsaching302.github.io/newsapp/static/js/787.4c026eef.chunk.js",
     "index.html": "/mrsaching302.github.io/newsapp/index.html",
     "main.e6c13ad2.css.map": "/mrsaching302.github.io/newsapp/static/css/main.e6c13ad2.css.map",
-    "main.442c6271.js.map": "/mrsaching302.github.io/newsapp/static/js/main.442c6271.js.map",
+    "main.6c491fe0.js.map": "/mrsaching302.github.io/newsapp/static/js/main.6c491fe0.js.map",
     "787.4c026eef.chunk.js.map": "/mrsaching302.github.io/newsapp/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.442c6271.js"
+    "static/js/main.6c491fe0.js"
   ]
 }
